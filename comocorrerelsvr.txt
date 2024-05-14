@@ -1,0 +1,6 @@
+ionic serve
+o
+ionic serve --lab
+
+ionic generate page NOMBREPAGINA
+ionic generate service NOMBRESERVICE
